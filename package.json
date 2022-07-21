@@ -1,5 +1,5 @@
 {
-  "name": "08-websocket-server",
+  "name": "09-queue-app",
   "version": "1.0.0",
   "description": "Un servidor de Websockets usando Node, Express y Socket.io",
   "main": "index.js",
